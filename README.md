@@ -1,5 +1,4 @@
-# Pentesting Methodologies Comparison
-
+# Pentesting Methodologies Lab Project
 This is a lab from my ethical hacking course.
 
 ## What I did
@@ -12,8 +11,7 @@ This is a lab from my ethical hacking course.
 
 ## File
 
-The lab is included as an HTML file.
-
+The lab report is included in this repository.
 ## Note
 
 For learning purposes only.
